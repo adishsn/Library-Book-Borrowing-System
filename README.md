@@ -1,4 +1,4 @@
-# Library Book Borrowing System
+# Library-Book-Borrowing-System
 
 Description:
 This C program manages library book borrowing using a singly linked list. It allows issuing books, returning books, searching by student ID, displaying all borrowed books, and counting total borrowed books. Each record contains Student ID, Book ID, Title, and Date of Issue.
